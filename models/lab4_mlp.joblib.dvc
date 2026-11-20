@@ -1,0 +1,5 @@
+outs:
+- md5: aeb46cdcd3f283e998fc9a07c2b1cabb
+  size: 65030
+  hash: md5
+  path: lab4_mlp.joblib

@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
+.venv-lab5/
+mlflow.db
+mlruns/
+AutogluonModels/
+spark-warehouse/
+metastore_db/
+catboost_info/

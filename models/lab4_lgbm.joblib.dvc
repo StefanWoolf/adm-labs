@@ -1,0 +1,5 @@
+outs:
+- md5: f214252b10e381623c6b026e92e2effc
+  size: 317739
+  hash: md5
+  path: lab4_lgbm.joblib
