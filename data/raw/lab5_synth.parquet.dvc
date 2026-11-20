@@ -1,0 +1,5 @@
+outs:
+- md5: 941cc3789f0898d585215b26deb77ad5
+  size: 837255067
+  hash: md5
+  path: lab5_synth.parquet

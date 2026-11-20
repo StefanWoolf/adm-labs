@@ -1,0 +1,12 @@
+# Лаба 5 — отдельное окружение .venv-lab5 (Python 3.13): AutoGluon 1.6 требует pandas<2.4, в основном .venv pandas 3.0
+# + Java 17 или 21 (JAVA_HOME / java в PATH) для PySpark
+pyspark==4.3.0
+py4j==0.10.9.9
+autogluon.tabular[lightgbm,catboost,xgboost]==1.6.3
+mlflow==3.18.0
+pyarrow==24.0.0
+pandas==2.3.3
+numpy==2.5.5
+scikit-learn==1.9.1
+matplotlib==3.11.2
+ipykernel==7.4.0
