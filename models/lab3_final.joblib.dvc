@@ -1,0 +1,5 @@
+outs:
+- md5: 6d2d4eab2ec80b5b019f7eb9274b86fb
+  size: 6147527
+  hash: md5
+  path: lab3_final.joblib
